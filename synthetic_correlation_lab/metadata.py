@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Générer des marges discrètes couplées par une copule gaussienne', 'en': 'Generate discrete marginals coupled by a Gaussian copula', 'es': 'Generar marginales discretas acopladas por una cópula gaussiana'}
